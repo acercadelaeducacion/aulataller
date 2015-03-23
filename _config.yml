@@ -6,7 +6,7 @@ url: http://acercadelaeducacion.github.io/aulataller
 
 
 # Jekyll configuration
-
+root: /aulataller
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
