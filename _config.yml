@@ -19,9 +19,9 @@ image: 'assets/images/alvar.png'
 
 short_url: 'acercadelaeducacion.com.ar'
 google_analytics: 
-disqus: 
+disqus: u
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /aulataller/
 
 # Permalinks
 permalink: /:title
