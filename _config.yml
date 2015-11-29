@@ -14,10 +14,10 @@ author: 'Alvar Maciel'
 username: alvarmaciel
 bio: 'Docente, busco entender que hacer con el engranaje tecnologico en el que estamos metidxs. Trabajo y escribo acerca de la educación.'
 location: 'Buenos Aires, Argentina'
-url: 'http://acercadelaeducacion.com.ar'
+url: 'http://acercadelaeducacion.github.io/aulataller'
 image: 'assets/images/alvar.png'
 
-short_url: 'acercadelaeducacion.github.io/aulataller'
+short_url: 'aulataller'
 google_analytics: 
 disqus: u
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
