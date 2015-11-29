@@ -17,7 +17,7 @@ location: 'Buenos Aires, Argentina'
 url: 'http://acercadelaeducacion.com.ar'
 image: 'assets/images/alvar.png'
 
-short_url: 'acercadelaeducacion.com.ar'
+short_url: 'acercadelaeducacion.github.io/aulataller'
 google_analytics: 
 disqus: u
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
