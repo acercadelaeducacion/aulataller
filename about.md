@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre este sitio
 class: 'post'
 navigation: True
 logo: 'assets/images/alvar.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Este es un sitio pensado como espacio de trabajo de los estudiantes. Se irán cargando trabajos a realizar y resultados de las actividades.
 
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Lo uso como espacio de pruebas y referencias.
