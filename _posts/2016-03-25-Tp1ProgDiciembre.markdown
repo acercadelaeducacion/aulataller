@@ -35,3 +35,6 @@ logo: 'assets/images/alvar.png'
 - Transcribir la programción del nivel 6
 - Contestar ¿Cómo le explicarías a alguien que nunca programó como resolviste este nivel?
 - Continuar hasta por lo menos terminar el nivel 12
+
+#### Créditos
+Este Tp fue hecho en base al material de estudio del curso brindado por [Program.ar](http://programar.gob.ar/formacion-docente/)
