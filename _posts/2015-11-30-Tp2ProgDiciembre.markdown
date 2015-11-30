@@ -41,11 +41,11 @@ logo: 'assets/images/alvar.png'
 
 - [La gran aventura del mar encantado](http://scratch.mit.edu/projects/42294776/#editor)
 - El objetivo principal es que el héroe (ubicado en el casillero del extremo inferior izquierdo) logre escapar en el unicornio con la princesa. Para ello, debe superar una serie de pruebas en el siguiente orden.
-	- 1. Buscar la llave.
-	- 2. Con la llave, abrir el cofre y tomar un sombrero mágico que se encuentra adentro.
-	- 3. Entregarle el sombrero al mago para que este le dé una espada.
-	- 4. Con la espada, ir a luchar contra el caballero oscuro y rescatar a la princesa.
-	- 5. Ir con la princesa hasta el unicornio y escapar.
+	1. Buscar la llave.
+	2. Con la llave, abrir el cofre y tomar un sombrero mágico que se encuentra adentro.
+	3. Entregarle el sombrero al mago para que este le dé una espada.
+	4. Con la espada, ir a luchar contra el caballero oscuro y rescatar a la princesa.
+	5. Ir con la princesa hasta el unicornio y escapar.
 - Para que el héroe pueda superar las pruebas, hay que tener en cuenta lo siguiente:
 	- No puede agarrar la llave si no está en la casilla donde está la llave;
 	- No puede abrir el cofre sin la llave y si no está junto al cofre;
