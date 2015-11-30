@@ -1,27 +1,29 @@
 # Jykell configuration
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: pygments
 paginate: 5
-language: 'en-uk'
+language: 'es-es'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Aula Taller'
+description: "Un blog para las clases, para dejar registro y para probar actividades"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Alvar Maciel'
 # edit 'categories' in the front matter of every post to match this username
-username: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+username: alvarmaciel
+bio: 'Docente, busco entender que hacer con el engranaje tecnologico en el que estamos metidxs. Trabajo y escribo acerca de la educación.'
+location: 'Buenos Aires, Argentina'
+url: 'http://acercadelaeducacion.github.io/aulataller'
+image: 'assets/images/alvar.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'aulataller'
+google_analytics: 
+disqus: u
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /aulataller/
 
 # Permalinks
 permalink: /:title
@@ -52,15 +54,15 @@ exclude: [vendor]
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: false
-lsi: false
-username: biomadeira
-repo: jasper
-branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+#safe: false
+#lsi: false
+#username: alvarmaciel
+#repo: aulataller
+#branch: gh-pages
+#relative_source: ../aulataller/
+#destination: ../_sites/
+#production_url:  https://acercadelaeducacion.github.io/aulataller/
+#source_url:      https://github.com/acercadelaeducacion/aulataller/
 
 exclude:
   - README.md
