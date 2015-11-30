@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>aulataller</title>
+   
+   <link>http://acercadelaeducacion.github.io/aulataller</link>
+   <description>Un blog para las clases, para dejar registro y para probar actividades</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Preguntas Investigables</title>
+	  <link>/aulataller//preguntas-investigables</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-03-25T21:04:47-03:00</pubDate>
+	  <guid>/aulataller//preguntas-investigables</guid>
+	  <description><![CDATA[
+	     <p>Preguntas hechas por 6 para investigar sobre mezclas</p>
+
+<table><thead>
+<tr>
+<th style="text-align: center">Experiencias</th>
+<th style="text-align: left">¿Qué pregunta queremos contestar</th>
+<th style="text-align: left">Posibles respuestas</th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: center">1</td>
+<td style="text-align: left">¿El peso de las mezclas es igual a la suma de sus materiales?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">2</td>
+<td style="text-align: left">¿El telgopor flota con las piedritas arriba?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">3</td>
+<td style="text-align: left">¿La arena se disuelve?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">4</td>
+<td style="text-align: left">Si se disuelve la sal ¿cambia el peso?</td>
+<td style="text-align: left"></td>
+</tr>
+</tbody></table>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

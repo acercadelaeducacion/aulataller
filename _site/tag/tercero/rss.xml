@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>aulataller</title>
+   
+   <link>http://acercadelaeducacion.github.io/aulataller</link>
+   <description>Un blog para las clases, para dejar registro y para probar actividades</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Ya elegimos qué vamos a leer</title>
+	  <link>/aulataller//ya-elegimos-que-vamos-a-leer</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-10-02T15:35:56-03:00</pubDate>
+	  <guid>/aulataller//ya-elegimos-que-vamos-a-leer</guid>
+	  <description><![CDATA[
+	     <p>Luego de una intensa votación. Ya tenemos un ganador</p>
+
+<!--more-->
+
+<p>Y si... el ganador es Cupido 13</p>
+
+<p>hacé click <a href="magnet:?xt=urn:btih:70D64E48F5706D5A4E1DFD26430E6B5EDD0CCB26&amp;dn=EPL_Cupido_13&amp;tr=udp://tracker.openbittorrent.com:80&amp;tr=udp://tracker.publicbt.com:80" title="Cupudo 13">acá</a> para descargarlo</p>
+
+<p><img src="http://media.giphy.com/media/TArjr4dDoLDNu/giphy.gif" alt=""></p>
+
+<p><a href="http://giphy.com/gifs/Uoyf084JYOblK">Fuente de la Imagen 1</a></p>
+
+<p><a href="http://media.giphy.com/media/TArjr4dDoLDNu">Fuente de imagen 2</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>¿Y si elegimos qué leer?</title>
+	  <link>/aulataller//que-vamos-a-leer-ahora</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-09-29T20:14:42-03:00</pubDate>
+	  <guid>/aulataller//que-vamos-a-leer-ahora</guid>
+	  <description><![CDATA[
+	     <p>Esta vez vamos a elegir entre todos qué leer. Para eso antes tendremos que investigar que opciones tenemos.</p>
+
+<!--more-->
+
+<p>Entonces, estan son las <strong>instrucciones</strong> para elegir qué vamos a leer:</p>
+
+<ol>
+<li>Leer de qué se tratan las tres opciones. Debajo de estas instrucciones están los enlaces para cada opción.</li>
+<li>Escribir en la carpeta título, autor y una frase que te guste de la contratapa de cada una de las opciones.</li>
+<li>Una vez que leíste las opciones, completa el formulario que está al final de esta página.</li>
+</ol>
+
+<h2 id="opciones-de-lectura">Opciones de lectura</h2>
+
+<ul>
+<li><a href="https://amaciel.makes.org/thimble/LTExMDA0MTQ3MjA=/momo">Opción 1</a></li>
+<li><a href="https://amaciel.makes.org/thimble/ODEyMjUzNDQw/jim-bot%C3%B3n">Opción 2</a></li>
+<li><a href="https://amaciel.makes.org/thimble/MTQ0OTc4NzY0OA==/los-desmaravilladores">Opción 3</a></li>
+<li><a href="https://amaciel.makes.org/thimble/LTE1MTk3Nzk1ODQ=/cupido-13">Opción 4</a></li>
+</ul>
+
+<h2 id="formulario">Formulario</h2>
+
+<iframe src="https://docs.google.com/forms/d/1D40ewz7Har0CtXuBKnsZVFm6iRu4r9Yzsi93uEeYVjo/viewform?embedded=true" width="760" height="960" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+
+<hr>
+
+<p><a href="http://giphy.com/gifs/wtf-epic-sSDFQDR1ZsZTG" title="Fuente de la imagen">Fuente de la imagen: Giphy</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>BomberBot I</title>
+	  <link>/aulataller//bomberbot-i</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-08-21T12:48:46-03:00</pubDate>
+	  <guid>/aulataller//bomberbot-i</guid>
+	  <description><![CDATA[
+	     <p>Hoy vamos a empezar a jugar para aprender un poco de <a href="http://www.eduteka.org/codetolearn.php">pensamiento computacional</a>. Vayan a la <a href="http://bomberbot.com/">página de BomberBot</a></p>
+
+<p><img src="http://bomberbot.com/assets/img/bot_n_girl.png" alt=""></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Haciendo y escribiendo para hacer</title>
+	  <link>/aulataller//haciendo-y-escribiendo-para-hacer</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-08-20T21:04:47-03:00</pubDate>
+	  <guid>/aulataller//haciendo-y-escribiendo-para-hacer</guid>
+	  <description><![CDATA[
+	     <p>Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.</p>
+
+<p>Lxs espero <strong><a href="https://amaciel.makes.org/thimble/LTE3MjYwODY5MTI=/haciendo-y-escribiendo-para-hacer">acá</a></strong></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

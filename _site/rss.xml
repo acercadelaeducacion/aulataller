@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Aula Taller</title>
+    <link>http://acercadelaeducacion.github.io/aulataller</link>
+    <description>Un blog para las clases, para dejar registro y para probar actividades</description>
+    <pubDate>Wed, 30 Nov 2016 21:04:47 -0300</pubDate>
+    <item>
+      <title>Tp 1 Lightbot</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/Tp1ProgDiciembre</link>
+      <description>### Objetivos
+
+</description>
+      <pubDate>Wed, 30 Nov 2016 21:04:47 -0300</pubDate>
+      <dc:date>2016-11-30T21:04:47-03:00</dc:date>
+    </item>
+    <item>
+      <title>Tp 2 scratch</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/Tp2ProgDiciembre</link>
+      <description>### Objetivos
+
+</description>
+      <pubDate>Mon, 30 Nov 2015 22:31:47 -0300</pubDate>
+      <dc:date>2015-11-30T22:31:47-03:00</dc:date>
+    </item>
+    <item>
+      <title>Tp 2 scratch</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/Tp1ProgDiciembre</link>
+      <description>### Objetivos
+
+</description>
+      <pubDate>Mon, 30 Nov 2015 22:31:47 -0300</pubDate>
+      <dc:date>2015-11-30T22:31:47-03:00</dc:date>
+    </item>
+    <item>
+      <title>Preguntas Investigables</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/preguntas-investigables</link>
+      <description>Preguntas hechas por 6 para investigar sobre mezclas
+
+</description>
+      <pubDate>Wed, 25 Mar 2015 21:04:47 -0300</pubDate>
+      <dc:date>2015-03-25T21:04:47-03:00</dc:date>
+    </item>
+    <item>
+      <title>Ya elegimos qué vamos a leer</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/ya-elegimos-que-vamos-a-leer</link>
+      <description>Luego de una intensa votación. Ya tenemos un ganador
+
+</description>
+      <pubDate>Thu, 02 Oct 2014 15:35:56 -0300</pubDate>
+      <dc:date>2014-10-02T15:35:56-03:00</dc:date>
+    </item>
+    <item>
+      <title>¿Y si elegimos qué leer?</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/que-vamos-a-leer-ahora</link>
+      <description>Esta vez vamos a elegir entre todos qué leer. Para eso antes tendremos que investigar que opciones tenemos.
+
+</description>
+      <pubDate>Mon, 29 Sep 2014 20:14:42 -0300</pubDate>
+      <dc:date>2014-09-29T20:14:42-03:00</dc:date>
+    </item>
+    <item>
+      <title>BomberBot I</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/bomberbot-i</link>
+      <description>Hoy vamos a empezar a jugar para aprender un poco de [pensamiento computacional](http://www.eduteka.org/codetolearn.php). Vayan a la [página de BomberBot](http://bomberbot.com/)
+
+</description>
+      <pubDate>Thu, 21 Aug 2014 12:48:46 -0300</pubDate>
+      <dc:date>2014-08-21T12:48:46-03:00</dc:date>
+    </item>
+    <item>
+      <title>Haciendo y escribiendo para hacer</title>
+      <link>http://acercadelaeducacion.github.io/aulataller/haciendo-y-escribiendo-para-hacer</link>
+      <description>Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.
+
+</description>
+      <pubDate>Wed, 20 Aug 2014 21:04:47 -0300</pubDate>
+      <dc:date>2014-08-20T21:04:47-03:00</dc:date>
+    </item>
+    <dc:date>2016-11-30T21:04:47-03:00</dc:date>
+  </channel>
+</rss>
