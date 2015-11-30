@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>aulataller</title>
+   
+   <link>http://acercadelaeducacion.github.io/aulataller</link>
+   <description>Un blog para las clases, para dejar registro y para probar actividades</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Tp 1 Lightbot</title>
+	  <link>/aulataller//Tp1ProgDiciembre</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2016-11-30T21:04:47-03:00</pubDate>
+	  <guid>/aulataller//Tp1ProgDiciembre</guid>
+	  <description><![CDATA[
+	     <h3 id="objetivos">Objetivos</h3>
+
+<ul>
+<li>Identificar problemas y proponer soluciones a través de la programación.</li>
+<li>Reconocer el patrón que permite descomponer un problema en acciones más acotadas.</li>
+<li>Resolver problemas de manera más simple a partir del patrón que permite descomponerlos.</li>
+<li>Proponer diversas soluciones para un mismo problema.</li>
+</ul>
+
+<h3 id="actividades">Actividades</h3>
+
+<ol>
+<li> Entrar a Lightbot
+
+<ol>
+<li> Online: <a href="http://armorgames.com/play/2205/light-bot">http://armorgames.com/play/2205/light-bot</a></li>
+<li> Offline: Abrir la carpeta lightbot y abrir el archivo lightbot1.html</li>
+</ol></li>
+<li> El juego: utilizando una serie de comandos, se debe lograr que el robot encienda todas las baldosas azules de la fábrica. Para empezar a jugar, hay que hacer clic en la opción <strong>New Game</strong></li>
+</ol>
+
+<h3 id="elementos-del-juego">Elementos del juego</h3>
+
+<p><img src="/aulataller/assets/images/elementosLightbot.png" alt="" title="Escenario del juego"></p>
+
+<h3 id="actividad-1">Actividad 1</h3>
+
+<ul>
+<li>Avanzar hasta el nivel 6</li>
+<li>Transcribir la programción del nivel 6</li>
+<li>Contestar ¿Cómo le explicarías a alguien que nunca programó como resolviste este nivel?</li>
+<li>Continuar hasta por lo menos terminar el nivel 12</li>
+</ul>
+
+<h4 id="créditos">Créditos</h4>
+
+<p>Este Tp fue hecho en base al material de estudio del curso brindado por <a href="http://programar.gob.ar/formacion-docente/">Program.ar</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Tp 2 scratch</title>
+	  <link>/aulataller//Tp2ProgDiciembre</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-11-30T22:31:47-03:00</pubDate>
+	  <guid>/aulataller//Tp2ProgDiciembre</guid>
+	  <description><![CDATA[
+	     <h3 id="objetivos">Objetivos</h3>
+
+<ul>
+<li>Ejercitarse en el uso de programas para la resolución de problemas.</li>
+<li>Establecer comparaciones entre las diversas maneras posibles de resolver un problema.</li>
+<li>Reforzar los conceptos de repetición y separación en procedimientos.</li>
+</ul>
+
+<h3 id="contenidos">Contenidos</h3>
+
+<ul>
+<li>Comandos; secuencia de comandos</li>
+<li>Procedimientos</li>
+<li>Repetición simple</li>
+<li>Alternativa condicional</li>
+<li>Herramientas conceptuales
+
+<ul>
+<li>Estrategia de solución; división en subtareas</li>
+<li>Elección de nombres adecuados para procedimientos</li>
+</ul></li>
+</ul>
+
+<h3 id="procedimientos-subtareas-y-nombres-de-los-procedimientos">Procedimientos, subtareas y nombres de los procedimientos</h3>
+
+<h4 id="actividad-1">Actividad 1</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/11421399/#editor">Lightbot en Scratch</a></li>
+<li>Consigna: en cada nivel lograr que el robot prenda todas las luces</li>
+</ul>
+
+<h4 id="actividad-2">Actividad 2</h4>
+
+<ul>
+<li><a href="Que%20el%20extraterrestre%20recolecte%20todas%20las%20estrellas">El recolector de estrellas</a></li>
+<li>Consigna: Que el extraterrestre recolecte todas las estrellas</li>
+</ul>
+
+<h4 id="actividad-3">Actividad 3</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294776/#editor">La gran aventura del mar encantado</a></li>
+<li>El objetivo principal es que el héroe (ubicado en el casillero del extremo inferior izquierdo) logre escapar en el unicornio con la princesa. Para ello, debe superar una serie de pruebas en el siguiente orden.
+
+<ol>
+<li>Buscar la llave.</li>
+<li>Con la llave, abrir el cofre y tomar un sombrero mágico que se encuentra adentro.</li>
+<li>Entregarle el sombrero al mago para que este le dé una espada.</li>
+<li>Con la espada, ir a luchar contra el caballero oscuro y rescatar a la princesa.</li>
+<li>Ir con la princesa hasta el unicornio y escapar.</li>
+</ol></li>
+<li>Para que el héroe pueda superar las pruebas, hay que tener en cuenta lo siguiente:
+
+<ul>
+<li>No puede agarrar la llave si no está en la casilla donde está la llave;</li>
+<li>No puede abrir el cofre sin la llave y si no está junto al cofre;</li>
+<li>No puede darle el sombrero al mago si no tiene el sombrero y no está junto al mago;</li>
+<li>No puede atacar al caballero oscuro si no tiene la espada y no está en la casilla donde se encuentra el caballero;</li>
+<li>No puede escapar con la princesa montado en el unicornio si no está junto con ella en la casilla donde se encuentra el unicornio</li>
+</ul></li>
+</ul>
+
+<h3 id="repetición-condicional-y-alternativa-condicional">Repetición condicional y alternativa condicional</h3>
+
+<h4 id="actividad-1">Actividad 1</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294260/#editor">La elección del mono</a></li>
+<li>Consigna: Lograr que el mono coma la fruta que está a su derecha</li>
+</ul>
+
+<h4 id="actividad-2">Actividad 2</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294366/#editor">Laberinto Corto</a></li>
+<li>Lograr que el ratón avance un paso en la dirección correcta.</li>
+</ul>
+
+<h4 id="actividad-3">Actividad 3</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42293454/#editor">Super Lightbot 1</a></li>
+<li>Consigna: Prender todas las luces que haya</li>
+</ul>
+
+<h4 id="actividad-4">Actividad 4</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42293670/#editor"> Super Lightbot 2</a></li>
+<li>Consigna: Prender todas las luces que haya</li>
+</ul>
+
+<h4 id="actividad-5">Actividad 5</h4>
+
+<p>Ejercitación:
+La elección del mono
+Laberinto corto
+Tres naranjas
+Lightbot recargado
+Laberinto largo
+Super Lightbot 1
+Super Lightbot 2
+Laberinto con queso
+El detective Chaparro
+Fútbol para robots
+Prendiendo las compus
+El mono que sabe contar
+El mono cuenta de nuevo
+El superviaje</p>
+
+<p>Copiar en la hoja los procedimientos usados.</p>
+
+<h4 id="créditos">Créditos</h4>
+
+<p>Este Tp fue hecho en base al material de estudio del curso brindado por <a href="http://programar.gob.ar/formacion-docente/">Program.ar</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Tp 2 scratch</title>
+	  <link>/aulataller//Tp1ProgDiciembre</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-11-30T22:31:47-03:00</pubDate>
+	  <guid>/aulataller//Tp1ProgDiciembre</guid>
+	  <description><![CDATA[
+	     <h3 id="objetivos">Objetivos</h3>
+
+<ul>
+<li>Ejercitarse en el uso de programas para la resolución de problemas.</li>
+<li>Establecer comparaciones entre las diversas maneras posibles de resolver un problema.</li>
+<li>Reforzar los conceptos de repetición y separación en procedimientos.</li>
+</ul>
+
+<h3 id="contenidos">Contenidos</h3>
+
+<ul>
+<li>Comandos; secuencia de comandos</li>
+<li>Procedimientos</li>
+<li>Repetición simple</li>
+<li>Alternativa condicional</li>
+<li>Herramientas conceptuales
+
+<ul>
+<li>Estrategia de solución; división en subtareas</li>
+<li>Elección de nombres adecuados para procedimientos</li>
+</ul></li>
+</ul>
+
+<h3 id="procedimientos-subtareas-y-nombres-de-los-procedimientos">Procedimientos, subtareas y nombres de los procedimientos</h3>
+
+<h4 id="actividad-1">Actividad 1</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/11421399/#editor">Lightbot en Scratch</a></li>
+<li>Consigna: en cada nivel lograr que el robot prenda todas las luces</li>
+</ul>
+
+<h4 id="actividad-2">Actividad 2</h4>
+
+<ul>
+<li><a href="Que%20el%20extraterrestre%20recolecte%20todas%20las%20estrellas">El recolector de estrellas</a></li>
+<li>Consigna: Que el extraterrestre recolecte todas las estrellas</li>
+</ul>
+
+<h4 id="actividad-3">Actividad 3</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294776/#editor">La gran aventura del mar encantado</a></li>
+<li>El objetivo principal es que el héroe (ubicado en el casillero del extremo inferior izquierdo) logre escapar en el unicornio con la princesa. Para ello, debe superar una serie de pruebas en el siguiente orden.
+
+<ul>
+<li>1. Buscar la llave.</li>
+<li>2. Con la llave, abrir el cofre y tomar un sombrero mágico que se encuentra adentro.</li>
+<li>3. Entregarle el sombrero al mago para que este le dé una espada.</li>
+<li>4. Con la espada, ir a luchar contra el caballero oscuro y rescatar a la princesa.</li>
+<li>5. Ir con la princesa hasta el unicornio y escapar.</li>
+</ul></li>
+<li>Para que el héroe pueda superar las pruebas, hay que tener en cuenta lo siguiente:
+
+<ul>
+<li>No puede agarrar la llave si no está en la casilla donde está la llave;</li>
+<li>No puede abrir el cofre sin la llave y si no está junto al cofre;</li>
+<li>No puede darle el sombrero al mago si no tiene el sombrero y no está junto al mago;</li>
+<li>No puede atacar al caballero oscuro si no tiene la espada y no está en la casilla donde se encuentra el caballero;</li>
+<li>No puede escapar con la princesa montado en el unicornio si no está junto con ella en la casilla donde se encuentra el unicornio</li>
+</ul></li>
+</ul>
+
+<h3 id="repetición-condicional-y-alternativa-condicional">Repetición condicional y alternativa condicional</h3>
+
+<h4 id="actividad-1">Actividad 1</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294260/#editor">La elección del mono</a></li>
+<li>Consigna: Lograr que el mono coma la fruta que está a su derecha</li>
+</ul>
+
+<h4 id="actividad-2">Actividad 2</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42294366/#editor">Laberinto Corto</a></li>
+<li>Lograr que el ratón avance un paso en la dirección correcta.</li>
+</ul>
+
+<h4 id="actividad-3">Actividad 3</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42293454/#editor">Super Lightbot 1</a></li>
+<li>Consigna: Prender todas las luces que haya</li>
+</ul>
+
+<h4 id="actividad-4">Actividad 4</h4>
+
+<ul>
+<li><a href="http://scratch.mit.edu/projects/42293670/#editor"> Super Lightbot 2</a></li>
+<li>Consigna: Prender todas las luces que haya</li>
+</ul>
+
+<h4 id="actividad-5">Actividad 5</h4>
+
+<p>Ejercitación:
+La elección del mono
+Laberinto corto
+Tres naranjas
+Lightbot recargado
+Laberinto largo
+Super Lightbot 1
+Super Lightbot 2
+Laberinto con queso
+El detective Chaparro
+Fútbol para robots
+Prendiendo las compus
+El mono que sabe contar
+El mono cuenta de nuevo
+El superviaje</p>
+
+<p>Copiar en la hoja los procedimientos usados.</p>
+
+<h4 id="créditos">Créditos</h4>
+
+<p>Este Tp fue hecho en base al material de estudio del curso brindado por <a href="http://programar.gob.ar/formacion-docente/">Program.ar</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Preguntas Investigables</title>
+	  <link>/aulataller//preguntas-investigables</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-03-25T21:04:47-03:00</pubDate>
+	  <guid>/aulataller//preguntas-investigables</guid>
+	  <description><![CDATA[
+	     <p>Preguntas hechas por 6 para investigar sobre mezclas</p>
+
+<table><thead>
+<tr>
+<th style="text-align: center">Experiencias</th>
+<th style="text-align: left">¿Qué pregunta queremos contestar</th>
+<th style="text-align: left">Posibles respuestas</th>
+</tr>
+</thead><tbody>
+<tr>
+<td style="text-align: center">1</td>
+<td style="text-align: left">¿El peso de las mezclas es igual a la suma de sus materiales?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">2</td>
+<td style="text-align: left">¿El telgopor flota con las piedritas arriba?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">3</td>
+<td style="text-align: left">¿La arena se disuelve?</td>
+<td style="text-align: left"></td>
+</tr>
+<tr>
+<td style="text-align: center">4</td>
+<td style="text-align: left">Si se disuelve la sal ¿cambia el peso?</td>
+<td style="text-align: left"></td>
+</tr>
+</tbody></table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Ya elegimos qué vamos a leer</title>
+	  <link>/aulataller//ya-elegimos-que-vamos-a-leer</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-10-02T15:35:56-03:00</pubDate>
+	  <guid>/aulataller//ya-elegimos-que-vamos-a-leer</guid>
+	  <description><![CDATA[
+	     <p>Luego de una intensa votación. Ya tenemos un ganador</p>
+
+<!--more-->
+
+<p>Y si... el ganador es Cupido 13</p>
+
+<p>hacé click <a href="magnet:?xt=urn:btih:70D64E48F5706D5A4E1DFD26430E6B5EDD0CCB26&amp;dn=EPL_Cupido_13&amp;tr=udp://tracker.openbittorrent.com:80&amp;tr=udp://tracker.publicbt.com:80" title="Cupudo 13">acá</a> para descargarlo</p>
+
+<p><img src="http://media.giphy.com/media/TArjr4dDoLDNu/giphy.gif" alt=""></p>
+
+<p><a href="http://giphy.com/gifs/Uoyf084JYOblK">Fuente de la Imagen 1</a></p>
+
+<p><a href="http://media.giphy.com/media/TArjr4dDoLDNu">Fuente de imagen 2</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>¿Y si elegimos qué leer?</title>
+	  <link>/aulataller//que-vamos-a-leer-ahora</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-09-29T20:14:42-03:00</pubDate>
+	  <guid>/aulataller//que-vamos-a-leer-ahora</guid>
+	  <description><![CDATA[
+	     <p>Esta vez vamos a elegir entre todos qué leer. Para eso antes tendremos que investigar que opciones tenemos.</p>
+
+<!--more-->
+
+<p>Entonces, estan son las <strong>instrucciones</strong> para elegir qué vamos a leer:</p>
+
+<ol>
+<li>Leer de qué se tratan las tres opciones. Debajo de estas instrucciones están los enlaces para cada opción.</li>
+<li>Escribir en la carpeta título, autor y una frase que te guste de la contratapa de cada una de las opciones.</li>
+<li>Una vez que leíste las opciones, completa el formulario que está al final de esta página.</li>
+</ol>
+
+<h2 id="opciones-de-lectura">Opciones de lectura</h2>
+
+<ul>
+<li><a href="https://amaciel.makes.org/thimble/LTExMDA0MTQ3MjA=/momo">Opción 1</a></li>
+<li><a href="https://amaciel.makes.org/thimble/ODEyMjUzNDQw/jim-bot%C3%B3n">Opción 2</a></li>
+<li><a href="https://amaciel.makes.org/thimble/MTQ0OTc4NzY0OA==/los-desmaravilladores">Opción 3</a></li>
+<li><a href="https://amaciel.makes.org/thimble/LTE1MTk3Nzk1ODQ=/cupido-13">Opción 4</a></li>
+</ul>
+
+<h2 id="formulario">Formulario</h2>
+
+<iframe src="https://docs.google.com/forms/d/1D40ewz7Har0CtXuBKnsZVFm6iRu4r9Yzsi93uEeYVjo/viewform?embedded=true" width="760" height="960" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+
+<hr>
+
+<p><a href="http://giphy.com/gifs/wtf-epic-sSDFQDR1ZsZTG" title="Fuente de la imagen">Fuente de la imagen: Giphy</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>BomberBot I</title>
+	  <link>/aulataller//bomberbot-i</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-08-21T12:48:46-03:00</pubDate>
+	  <guid>/aulataller//bomberbot-i</guid>
+	  <description><![CDATA[
+	     <p>Hoy vamos a empezar a jugar para aprender un poco de <a href="http://www.eduteka.org/codetolearn.php">pensamiento computacional</a>. Vayan a la <a href="http://bomberbot.com/">página de BomberBot</a></p>
+
+<p><img src="http://bomberbot.com/assets/img/bot_n_girl.png" alt=""></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Haciendo y escribiendo para hacer</title>
+	  <link>/aulataller//haciendo-y-escribiendo-para-hacer</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-08-20T21:04:47-03:00</pubDate>
+	  <guid>/aulataller//haciendo-y-escribiendo-para-hacer</guid>
+	  <description><![CDATA[
+	     <p>Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.</p>
+
+<p>Lxs espero <strong><a href="https://amaciel.makes.org/thimble/LTE3MjYwODY5MTI=/haciendo-y-escribiendo-para-hacer">acá</a></strong></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

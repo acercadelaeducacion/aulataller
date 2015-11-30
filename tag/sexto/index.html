@@ -53,7 +53,7 @@
     <link rel="alternate" type="application/rss+xml" title="Aula Taller" href="/aulataller/rss.xml" />
 
 </head>
-<body class="home-template nav-closed">
+<body class="tag-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -76,25 +76,30 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+
+
+<!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header  -->
-<header class="main-header "
-        style="background-image: url(/aulataller/assets/images/cover1.jpg) ">
+<!-- If we have a tag cover, display that - else blog cover - else nothing -->
+<header class="main-header tag-head " style="background-image: url(/aulataller/assets/images/cover2.jpg) ">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/aulataller/"><img src="/aulataller/assets/images/alvar.png" alt="Blog Logo" /></a>
+        <a class="blog-logo" href="/aulataller/"><img src="/aulataller/assets/images/ghost.png" alt="Blog Logo" /></a>
         
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">Aula Taller</h1>
-            <h2 class="page-description">Un blog para las clases, para dejar registro y para probar actividades</h2>
+            <h1 class="page-title">Sexto</h1>
+            <h2 class="page-description">
+            
+			    Una colección de 1  artículos
+            
+            </h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 <!-- The main content area on the homepage -->
@@ -106,111 +111,13 @@
         
             <nav class="pagination" role="pagination">
     
-    <span class="page-number"> Page 1 of 2 </span>
-     
-        <a class="older-posts" href="/aulataller/page2/" title="Next Page">Older Posts &raquo;</a>
+    <span class="page-number"> Page 1 of 1 </span>
      
 </nav>
         
     </div>
 
     <!-- This is the post loop - each post will be output using this markup -->
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/aulataller//Tp1ProgDiciembre">Tp 1 Lightbot</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><h3 id="objetivos">Objetivos</h3> <ul> <li>Identificar problemas y proponer soluciones a través de la programación.</li> <li>Reconocer el patrón que permite descomponer un problema en acciones más acotadas.</li> <li>Resolver... <a class="read-more" href="/aulataller//Tp1ProgDiciembre">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/aulataller/assets/images/alvar.png" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/aulataller/author/alvarmaciel'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/aulataller/tag/secundaria'>Secundaria</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/programacion'>Programacion</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/actividades'>Actividades</a>
-                       
-                
-            
-            <time class="post-date" datetime="2016-11-30">30 Nov 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/aulataller//Tp2ProgDiciembre">Tp 2 scratch</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><h3 id="objetivos">Objetivos</h3> <ul> <li>Ejercitarse en el uso de programas para la resolución de problemas.</li> <li>Establecer comparaciones entre las diversas maneras posibles de resolver un problema.</li> <li>Reforzar... <a class="read-more" href="/aulataller//Tp2ProgDiciembre">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/aulataller/assets/images/alvar.png" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/aulataller/author/alvarmaciel'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/aulataller/tag/secundaria'>Secundaria</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/programacion'>Programacion</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/actividades'>Actividades</a>
-                       
-                
-            
-            <time class="post-date" datetime="2015-11-30">30 Nov 2015</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/aulataller//Tp1ProgDiciembre">Tp 2 scratch</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><h3 id="objetivos">Objetivos</h3> <ul> <li>Ejercitarse en el uso de programas para la resolución de problemas.</li> <li>Establecer comparaciones entre las diversas maneras posibles de resolver un problema.</li> <li>Reforzar... <a class="read-more" href="/aulataller//Tp1ProgDiciembre">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/aulataller/assets/images/alvar.png" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/aulataller/author/alvarmaciel'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/aulataller/tag/secundaria'>Secundaria</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/programacion'>Programacion</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/actividades'>Actividades</a>
-                       
-                
-            
-            <time class="post-date" datetime="2015-11-30">30 Nov 2015</time>
-        </footer>
-    </article>
     
     <article class="post">
         <header class="post-header">
@@ -244,46 +151,12 @@
         </footer>
     </article>
     
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/aulataller//ya-elegimos-que-vamos-a-leer">Ya elegimos qué vamos a leer</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p><p>Luego de una intensa votación. Ya tenemos un ganador</p> <!--more--> <p>Y si... el ganador es Cupido 13</p> <p>hacé click <a href="magnet:?xt=urn:btih:70D64E48F5706D5A4E1DFD26430E6B5EDD0CCB26&amp;dn=EPL_Cupido_13&amp;tr=udp://tracker.openbittorrent.com:80&amp;tr=udp://tracker.publicbt.com:80" title="Cupudo 13">acá</a> para descargarlo</p> <p><img... <a class="read-more" href="/aulataller//ya-elegimos-que-vamos-a-leer">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/aulataller/assets/images/alvar.png" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/aulataller/author/alvarmaciel'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/aulataller/tag/tercero'>Tercero</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/primaria'>Primaria</a>,
-                       
-                
-                    
-                       <a href='/aulataller/tag/actividades'>Actividades</a>
-                       
-                
-            
-            <time class="post-date" datetime="2014-10-02">02 Oct 2014</time>
-        </footer>
-    </article>
-    
 
     <!-- Previous/next page links - displayed on every page -->
     
         <nav class="pagination" role="pagination">
     
-    <span class="page-number"> Page 1 of 2 </span>
-     
-        <a class="older-posts" href="/aulataller/page2/" title="Next Page">Older Posts &raquo;</a>
+    <span class="page-number"> Page 1 of 1 </span>
      
 </nav>
     

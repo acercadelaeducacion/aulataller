@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Aula Taller</title>
+    <title>Author</title>
     <meta name="description" content="Aula Taller - Un blog para las clases, para dejar registro y para probar actividades" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -53,7 +53,7 @@
     <link rel="alternate" type="application/rss+xml" title="Aula Taller" href="/aulataller/rss.xml" />
 
 </head>
-<body class="home-template nav-closed">
+<body class="author-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -66,7 +66,7 @@
         <li class="nav-primaria " role="presentation"><a href="/aulataller/tag/primaria/">Primaria</a></li>
         <li class="nav-secundaria " role="presentation"><a href="/aulataller/tag/secundaria/">Secundaria</a></li>
         <li class="nav-actividades " role="presentation"><a href="/aulataller/tag/actividades/">Actividades</a></li>
-        <li class="nav-author " role="presentation"><a href="/aulataller/author/casper/">Author</a></li>
+        <li class="nav-author  nav-current" role="presentation"><a href="/aulataller/author/casper/">Author</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="/aulataller/rss.xml">Subscribe</a>
 </div>
@@ -76,31 +76,45 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+        <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header  -->
-<header class="main-header "
-        style="background-image: url(/aulataller/assets/images/cover1.jpg) ">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/aulataller/"><img src="/aulataller/assets/images/alvar.png" alt="Blog Logo" /></a>
+<!-- The big featured header -->
+
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head " style="background-image: url(/aulataller/assets/images/cover4.jpg) ">
+        <nav class="main-nav overlay clearfix">
+            <a class="blog-logo" href="/aulataller/"><img src="/aulataller/assets/images/ghost.png" alt="Blog Logo" /></a>
+            
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+            
+        </nav>
+    </header>
+
+    <section class="author-profile inner">
         
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        <figure class="author-image">
+            <div class="img" style="background-image: url(/aulataller/assets/images/alvar.png)"><span class="hidden">Alvar Maciel's Picture</span></div>
+        </figure>
         
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Aula Taller</h1>
-            <h2 class="page-description">Un blog para las clases, para dejar registro y para probar actividades</h2>
+        <h1 class="author-title">Alvar Maciel</h1>
+        
+            <h2 class="author-bio">Docente, busco entender que hacer con el engranaje tecnologico en el que estamos metidxs. Trabajo y escribo acerca de la educación.</h2>
+        
+        <div class="author-meta">
+            <span class="author-location icon-location">Buenos Aires, Argentina</span>
+            <span class="author-link icon-link"><a href="http://acercadelaeducacion.github.io/aulataller">aulataller</a></span>
+            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+            <span class="author-stats"><i class="icon-stats"></i>8 posts</span>
         </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-</header>
+    </section>
+<!-- /author -->
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
         <!-- Previous/next page links - only displayed on page 2+ -->
     <div class="extra-pagination inner">
         
@@ -108,7 +122,7 @@
     
     <span class="page-number"> Page 1 of 2 </span>
      
-        <a class="older-posts" href="/aulataller/page2/" title="Next Page">Older Posts &raquo;</a>
+        <a class="older-posts" href="/aulataller/author/alvarmaciel/page2/" title="Next Page">Older Posts &raquo;</a>
      
 </nav>
         
@@ -283,7 +297,7 @@
     
     <span class="page-number"> Page 1 of 2 </span>
      
-        <a class="older-posts" href="/aulataller/page2/" title="Next Page">Older Posts &raquo;</a>
+        <a class="older-posts" href="/aulataller/author/alvarmaciel/page2/" title="Next Page">Older Posts &raquo;</a>
      
 </nav>
     
