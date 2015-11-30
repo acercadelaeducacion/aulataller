@@ -21,7 +21,7 @@ image: 'assets/images/alvar.png'
 
 short_url: 'aulataller'
 google_analytics: 
-disqus: u
+disqus: aulataller
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /aulataller/
 
