@@ -60,7 +60,7 @@ username: acercadelaeducacion
 repo: aulataller
 branch: gh-pages
 relative_source: ../aulataller/
-destination: ../_sites/
+destination: ../
 production_url:  https://acercadelaeducacion.github.io/aulataller/
 source_url:      https://github.com/acercadelaeducacion/aulataller/
 
