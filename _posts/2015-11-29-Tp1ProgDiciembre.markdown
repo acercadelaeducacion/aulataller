@@ -8,6 +8,7 @@ subclass: 'post tag-secundaria tag-programacion tag-actividades'
 categories: 'alvarmaciel'
 navigation: true
 logo: 'assets/images/alvar.png'
+comments: true
 
 ---
 
@@ -37,4 +38,4 @@ logo: 'assets/images/alvar.png'
 - Continuar hasta por lo menos terminar el nivel 12
 
 #### Créditos
-Este Tp fue hecho en base al material de estudio del curso brindado por [Program.ar](http://programar.gob.ar/formacion-docente/)
+Este Tp fue hecho en base al material de estudio del curso brindado por [Program.ar](http://programar.gob.ar/formacion-docente/)!
