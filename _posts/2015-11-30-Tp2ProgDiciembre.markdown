@@ -10,7 +10,7 @@ navigation: true
 logo: 'assets/images/alvar.png'
 
 ---
-### Objetivos
+### Objetivos!
 
 - Ejercitarse en el uso de programas para la resolución de problemas.
 - Establecer comparaciones entre las diversas maneras posibles de resolver un problema.
