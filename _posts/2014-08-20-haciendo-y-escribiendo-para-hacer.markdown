@@ -12,6 +12,6 @@ logo: 'assets/images/alvar.png'
 ---
 
 
-Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.
+¡Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.
 
 Lxs espero **[acá](https://amaciel.makes.org/thimble/LTE3MjYwODY5MTI=/haciendo-y-escribiendo-para-hacer)**
