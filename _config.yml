@@ -1,9 +1,9 @@
 # Jykell configuration
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: pygments
-paginate: 5
+#markdown: redcarpet
+#highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+paginate: 8
 language: 'es-es'
 
 # Website info
@@ -21,7 +21,7 @@ image: 'assets/images/alvar.png'
 
 short_url: 'aulataller'
 google_analytics: 
-disqus: u
+disqus: aulataller
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /aulataller/
 
@@ -55,10 +55,10 @@ exclude: [vendor]
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 safe: false
-si: false
+lsi: false
 username: acercadelaeducacion
 repo: aulataller
-branch: gh-pages
+branch: master
 relative_source: ../aulataller/
 destination: ../aulataller-pages
 production_url: https://acercadelaeducacion.github.io/aulataller/
