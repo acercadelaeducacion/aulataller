@@ -60,8 +60,8 @@ username: acercadelaeducacion
 repo: aulataller
 branch: master
 relative_source: ../aulataller/
-destination: ../aulataller-pages
-production_url: https://acercadelaeducacion.github.io/aulataller/
+destination: ../aulataller-pages/
+production_url: https://acercadelaeducacion.github.io/aulataller
 source_url: https://github.com/acercadelaeducacion/aulataller/
 
 exclude:
